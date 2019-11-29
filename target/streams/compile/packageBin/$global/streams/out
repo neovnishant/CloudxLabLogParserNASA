@@ -1,0 +1,23 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/sinhavnishant1369/CloudxLabLogParsingNASA/target/scala-2.11/cloudxlablogparsingnasa_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sinhavnishant1369/CloudxLabLogParsingNASA/target/scala-2.11/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/nishant[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sinhavnishant1369/CloudxLabLogParsingNASA/target/scala-2.11/classes/com/nishant[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/nishant/logparsingnansa/EntryPoint$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sinhavnishant1369/CloudxLabLogParsingNASA/target/scala-2.11/classes/com/nishant/logparsingnansa/EntryPoint$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/nishant/logparsingnansa/EntryPoint$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sinhavnishant1369/CloudxLabLogParsingNASA/target/scala-2.11/classes/com/nishant/logparsingnansa/EntryPoint$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/nishant/logparsingnansa/EntryPoint$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sinhavnishant1369/CloudxLabLogParsingNASA/target/scala-2.11/classes/com/nishant/logparsingnansa/EntryPoint$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/nishant/logparsingnansa/LogRecord$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sinhavnishant1369/CloudxLabLogParsingNASA/target/scala-2.11/classes/com/nishant/logparsingnansa/LogRecord$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/nishant/logparsingnansa/LogRecord.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sinhavnishant1369/CloudxLabLogParsingNASA/target/scala-2.11/classes/com/nishant/logparsingnansa/LogRecord.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/nishant/logparsingnansa[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sinhavnishant1369/CloudxLabLogParsingNASA/target/scala-2.11/classes/com/nishant/logparsingnansa[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/nishant/logparsingnansa/EntryPoint.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sinhavnishant1369/CloudxLabLogParsingNASA/target/scala-2.11/classes/com/nishant/logparsingnansa/EntryPoint.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/nishant/logparsingnansa/Utils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sinhavnishant1369/CloudxLabLogParsingNASA/target/scala-2.11/classes/com/nishant/logparsingnansa/Utils.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

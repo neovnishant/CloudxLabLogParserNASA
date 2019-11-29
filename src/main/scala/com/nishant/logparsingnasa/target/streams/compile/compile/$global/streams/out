@@ -1,0 +1,22 @@
+[0m[[0m[31merror[0m] [0m[0m/home/sinhavnishant1369/CloudxLabLogParsingNASA/src/main/scala/com/nishant/logparsingnasa/log-parser-nasa.scala:3:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.sql.SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/sinhavnishant1369/CloudxLabLogParsingNASA/src/main/scala/com/nishant/logparsingnasa/log-parser-nasa.scala:4:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark._[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/sinhavnishant1369/CloudxLabLogParsingNASA/src/main/scala/com/nishant/logparsingnasa/log-parser-nasa.scala:5:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.SparkContext[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/sinhavnishant1369/CloudxLabLogParsingNASA/src/main/scala/com/nishant/logparsingnasa/log-parser-nasa.scala:6:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.rdd.RDD[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/sinhavnishant1369/CloudxLabLogParsingNASA/src/main/scala/com/nishant/logparsingnasa/log-parser-nasa.scala:7:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.SparkContext._[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/sinhavnishant1369/CloudxLabLogParsingNASA/src/main/scala/com/nishant/logparsingnasa/log-parser-nasa.scala:39:16: not found: value sc[0m
+[0m[[0m[31merror[0m] [0m[0m	val logFile = sc.textFile("/data/spark/project/NASA_access_log_Aug95.gz")[0m
+[0m[[0m[31merror[0m] [0m[0m	              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/sinhavnishant1369/CloudxLabLogParsingNASA/src/main/scala/com/nishant/logparsingnasa/log-parser-nasa.scala:42:14: not found: value SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m	val spark = SparkSession.builder().appName("log-parser-nasa").config("spark.some.config.option", "nasa").getOrCreate()[0m
+[0m[[0m[31merror[0m] [0m[0m	            ^[0m
+[0m[[0m[31merror[0m] [0m[0m7 errors found[0m
